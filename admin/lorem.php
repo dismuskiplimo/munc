@@ -1,0 +1,3 @@
+<?php
+	$lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam adipiscing tincidunt egestas. Duis pretium lacus a sapien ultricies dapibus vel sit amet enim. Suspendisse accumsan  scelerisque turpis, vitae sollicitudin dolor consequat eget. Maecenas molestie rhoncus dolor. Cras vehicula, dui a tristique pellentesque, libero sapien interdum nibh, vel adipiscing quam ante nec lectus. Donec mattis suscipit porta. Suspendisse arcu est, ullamcorper blandit posuere sit amet, dapibus non mauris. Nullam lacinia tortor nec nulla porta scelerisque vitae nec ipsum. ";
+?>
